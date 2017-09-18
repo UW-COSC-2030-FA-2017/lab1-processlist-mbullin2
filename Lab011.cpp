@@ -10,7 +10,7 @@ int main()
 	// the length of the file and store the first two and last two numbers of a file.
 	string fileName;
 	float i;
-	float length = 0;
+	int length = 0;
 	float numberOne = 0;
 	float numberTwo = 0;
 	float numberThree = 0;
